@@ -29,4 +29,5 @@ To understand how this library would be used you can check the `main` method in 
 
 ```console
 ./mvnw spring-boot:run
-```
+```  
+Or, you can run the application in the IDE of your choice.
