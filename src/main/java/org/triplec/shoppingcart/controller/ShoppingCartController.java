@@ -1,4 +1,4 @@
-package org.triplec.shoppingcart;
+package org.triplec.shoppingcart.controller;
 
 import java.util.List;
 import lombok.AllArgsConstructor;
